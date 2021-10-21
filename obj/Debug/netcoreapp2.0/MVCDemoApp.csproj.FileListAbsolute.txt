@@ -1,0 +1,11 @@
+C:\AZ204\mvcdemo\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+C:\AZ204\mvcdemo\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+C:\AZ204\mvcdemo\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+C:\AZ204\mvcdemo\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\AZ204\mvcdemo\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+C:\AZ204\mvcdemo\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojResolveAssemblyReference.cache
+C:\AZ204\mvcdemo\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csproj.CoreCompileInputs.cache
+C:\AZ204\mvcdemo\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+C:\AZ204\mvcdemo\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+C:\AZ204\mvcdemo\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\AZ204\mvcdemo\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
